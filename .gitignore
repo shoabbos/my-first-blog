@@ -1,0 +1,7 @@
+*.pyczzzzzzzzzzzzszzzzzzzzezzsszsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssszzszsd
+*~
+__pycache__
+venv
+db.sqlite3
+/staticz
+.DS_Storezszz
